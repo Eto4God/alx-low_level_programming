@@ -9,6 +9,7 @@ int main(void)
 {
 	/* This function prints out text using the printf function */
 	char my_char[] = "with prosper grammar, but the outcome is a piece of art,\n";
+
 	printf("%s", my_char);
 	return (0);
 }
