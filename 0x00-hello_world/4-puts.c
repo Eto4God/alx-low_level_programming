@@ -7,9 +7,10 @@
 int main(void)
 
 {
-	/* This function prints out text using the printf function */
-	char my_char[] = "with proper grammar, but the outcome is a place of art,\n";
+	/* declaration of variable my_char too hold my string data */
 
-	printf("%s", my_char);
+	char my_char[] = "\"Programming is like building a multilingual puzzle";
+
+	puts(my_char);
 	return (0);
 }
