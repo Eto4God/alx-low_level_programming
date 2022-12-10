@@ -1,5 +1,6 @@
 #include <stdio.h>
-#imclude <unistd.h>
+#include <unistd.h>
+
 /**
  * main - Entry point
  * Return: 1 if successfully executed
