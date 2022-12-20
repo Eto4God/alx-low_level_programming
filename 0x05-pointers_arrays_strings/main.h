@@ -11,5 +11,6 @@ void _putchar(char);
 void print_rev(char *str);
 void rev_string(char *s);
 void puts2(char *str);
+void puts_half(char *str);
 
 #endif /* MAIN_H */
