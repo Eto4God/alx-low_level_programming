@@ -9,5 +9,6 @@ int _strlen(char *s);
 void _puts(char *str);
 void _putchar(char);
 void print_rev(char *str);
+void rev_string(char *s);
 
 #endif /* MAIN_H */
