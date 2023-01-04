@@ -5,5 +5,6 @@
 
 void _print_rev_recursion(char *s);
 int _putchar(int chr);
+void _print_rev_recursion(char *s);
 
 #endif /* MAIN_H */
