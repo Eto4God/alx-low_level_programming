@@ -12,5 +12,6 @@ int _pow_recursion(int x, int y);
 int _sqrt_recursion(int n);
 int prime_helper(int n, int d);
 int helper_pal(char *str, int length, int count);
+int wildcmp(char *s1, char *s2);
 
 #endif /* MAIN_H */
